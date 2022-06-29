@@ -1,5 +1,0 @@
-/data/code/Cpp_Concurrency/cmake-build-debug/CMakeFiles/thread_test_1.dir
-/data/code/Cpp_Concurrency/cmake-build-debug/CMakeFiles/thread_test_2.dir
-/data/code/Cpp_Concurrency/cmake-build-debug/CMakeFiles/thread_test_3.dir
-/data/code/Cpp_Concurrency/cmake-build-debug/CMakeFiles/edit_cache.dir
-/data/code/Cpp_Concurrency/cmake-build-debug/CMakeFiles/rebuild_cache.dir
