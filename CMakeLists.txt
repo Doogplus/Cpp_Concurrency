@@ -13,3 +13,5 @@ add_executable(thread_vector thread_manage/thread_vector.cpp)
 add_executable(parallel_accumulate thread_manage/parallel_accumulate.cpp)
 
 add_executable(lock_guard share_data_between_threads/lock_guard.cpp)
+add_executable(scoped_lock share_data_between_threads/scoped_lock.cpp)
+add_executable(malicious_func share_data_between_threads/malicious_func.cpp)
